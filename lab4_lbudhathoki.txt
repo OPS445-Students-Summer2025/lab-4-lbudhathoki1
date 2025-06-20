@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: lbudhathoki
+    Linux system name: lbudhathoki-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/lbudhathoki/ops445/lab4
+    Start at: Fri Jun 20 17:05:11 2025
+=================================================================
